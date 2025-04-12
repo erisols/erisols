@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=erisols&color=6a006a)
+
+*<p align=center>* ![](https://komarev.com/ghpvc/?username=erisols&color=6a006a)
 
 *<p align=center>* ![HI](https://file.garden/ZclrkDwUoz3IMPJW/e0378bb2d28edf7f1070545690cae1a9b4c0c228.webp)
 
